@@ -1,2 +1,2 @@
 # Frontend-mentor-project
-emplate
+template
